@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in and password reset is not working.",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Failed - Card Declined",
+    "description": "Customer attempted to pay using Visa but the payment keeps failing.",
+    "customer": "Sarah Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1003,
+    "title": "Unable to Download Invoice",
+    "description": "Customer cannot download their January invoice from the billing section.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2024-01-17"
+  },
+  {
+    "id": 1004,
+    "title": "Incorrect Billing Address",
+    "description": "Customer updated billing address but the old one still appears.",
+    "customer": "Emily Davis",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-01-18"
+  },
+  {
+    "id": 1005,
+    "title": "App Crash on Launch",
+    "description": "Mobile app crashes immediately after opening on Android device.",
+    "customer": "David Wilson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-19"
+  },
+  {
+    "id": 1006,
+    "title": "Refund Not Processed",
+    "description": "Customer requested refund two weeks ago but has not received it.",
+    "customer": "Sophia Taylor",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": 1007,
+    "title": "Two-Factor Authentication Issue",
+    "description": "Customer not receiving OTP for 2FA login.",
+    "customer": "James Anderson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-21"
+  },
+  {
+    "id": 1008,
+    "title": "Unable to Update Profile Picture",
+    "description": "Customer gets upload error when changing profile picture.",
+    "customer": "Olivia Martinez",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-01-22"
+  },
+  {
+    "id": 1009,
+    "title": "Subscription Auto-Renewal",
+    "description": "Customer cannot enable auto-renewal for their subscription.",
+    "customer": "Liam Thomas",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2024-01-23"
+  },
+  {
+    "id": 1010,
+    "title": "Missing Order Confirmation Email",
+    "description": "Customer placed order but didn't receive confirmation email.",
+    "customer": "Isabella Garcia",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-01-24"
+  },
+  {
+    "id": 1011,
+    "title": "Slow Website Performance",
+    "description": "Customer reports slow loading times on the dashboard.",
+    "customer": "Daniel Harris",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-01-25"
+  },
+  {
+    "id": 1012,
+    "title": "Error While Updating Password",
+    "description": "Customer receives server error when updating password.",
+    "customer": "Ava Clark",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-26"
+  },
+  {
+    "id": 1013,
+    "title": "Notification Emails Not Received",
+    "description": "Customer stopped receiving notification emails from the system.",
+    "customer": "Noah Rodriguez",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2024-01-27"
+  },
+  {
+    "id": 1014,
+    "title": "Account Locked After Multiple Attempts",
+    "description": "Customer account locked after several failed login attempts.",
+    "customer": "Mia Lewis",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2024-01-28"
+  },
+  {
+    "id": 1015,
+    "title": "Feature Request - Dark Mode",
+    "description": "Customer requested dark mode for better night usage.",
+    "customer": "Ethan Walker",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-01-29"
+  }
+]
